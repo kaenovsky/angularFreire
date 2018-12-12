@@ -1,0 +1,13 @@
+#bottom-player {
+  background: #181818;
+  display: flex;
+  align-content: center;
+  bottom: 0vw;
+  height: 10vh;
+  position: fixed;
+  width: 100%;
+}
+#bottom-player audio{
+  margin: auto 0;
+  width: 100%;
+}
